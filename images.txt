@@ -1,1 +1,1 @@
-selenium/standalone-chrome-headless:latest
+selenium/standalone-chrome-headless
