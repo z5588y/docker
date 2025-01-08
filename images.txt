@@ -1,1 +1,1 @@
-hslr/sun-panel
+selenium/standalone-chrome-headless:latest
