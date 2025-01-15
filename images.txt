@@ -1,1 +1,1 @@
-selenium/standalone-chrome-headless
+jxxghp/moviepilot-v2:latest
