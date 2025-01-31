@@ -1,1 +1,2 @@
 jxxghp/moviepilot-v2:latest
+cloudnas/clouddrive2
