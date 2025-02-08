@@ -1,2 +1,1 @@
-jxxghp/moviepilot-v2:latest
-cloudnas/clouddrive2
+jc21/nginx-proxy-manager:latest
