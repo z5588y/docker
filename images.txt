@@ -1,1 +1,2 @@
 iyuucn/iyuuplus-dev:latest
+ghcr.io/zyronon/douyin-vue:latest
